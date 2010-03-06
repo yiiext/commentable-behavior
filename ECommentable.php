@@ -1,5 +1,5 @@
 <?php
-class CCommentable extends CActiveRecordBehaviour {
+class ECommentable extends CActiveRecordBehaviour {
     function addComment(){
     }
     
